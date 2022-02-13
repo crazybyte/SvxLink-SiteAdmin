@@ -1,0 +1,112 @@
+https://ttsfree.com/text-to-speech
+
+en_US
+
+English ()US) - Female - (Jenny) (us)
+
+HELP
+The SiteAdmin module is used for EchoLink node or repeater administration. It allows a registered and authenticated user to send predefined commands over radio to the node or repeater for predefined actions by using DTMF codes.
+You need to ask your sysop a personal login ID and password before start using this service.
+To abort an operation  send a # or number sign.
+
+NAME
+
+SiteAdmin
+
+LOGIN
+
+Login please by provinding a user ID and password.
+
+LOGIN_UNSUCCESSFUL
+
+Login unsuccessful!
+
+LOGIN_SUCCESSFUL
+
+Login successful!
+
+UNKNOWN_USER_ID
+
+Unknown user ID!
+
+WRONG_USER_ID_OR_PASSWORD
+
+Wrong user ID or password!
+
+UNKNOWN_COMMAND
+
+Unknown command!
+
+HELP_LOGGED_IN_001
+
+The following predefined commands are available and that are not defined by sysops:
+send 0 for logged in help;
+send 10 for powering off system;
+send 69 to restart SvxLink;
+send 73 to reboot the system;
+send 77 to stop SvxLink;
+send 87 to spell out OS, OS codename and OS version and
+send 88 to say local IP address.
+All of sysop defined commands are prefixed with 22.
+All commands have to be ended with a # or number sign.
+
+HELP_LOGGED_IN_002
+
+
+==========================================
+
+ro_RO
+
+Romanian - Female (Alina) (ro)
+
+HELP
+
+Modulul SaitAdmin este un modul folosit pentru administrarea nodurilor sau repetoarelor Ecolink. Permite unui utilizator înregistrat și autentificat lansarea unor comenzi de sistem predefinite prin intermediul interfeței radio folosind coduri DTMF.
+Pentru a utiliza această facilitate vă rugăm să vă adresați administratorului dumneavoastră de nod sau repetor pentru alocarea unui identificator și a unei parole.
+Pentru a opri orice operație vă rugăm să trimiteți codul diez sau comanda vidă.
+
+NAME
+
+SaitAdmin
+
+LOGIN
+
+Vă rugăm să vă autentificați folosind identificatorul și parola primită.
+
+LOGIN_UNSUCCESSFUL
+
+Autentificare eșuată!
+
+LOGIN_SUCCESSFUL
+
+Autentificare cu succes!
+
+UNKNOWN_USER_ID
+
+Identificator utilizator necunoscut!
+
+WRONG_USER_ID_OR_PASSWORD
+
+Identificator greșit sau parolă greșită!
+
+UNKNOWN_COMMAND
+
+Comandă necunoscută!
+
+HELP_LOGGED_IN_001
+
+Următoarele comenzi predefinite sunt disponibile pentru administrare.
+Aceste comenzi nu sunt definite de către administratorul nodului sau a repetorului:
+apelați 0 pentru ajutor în legătură cu comenzile disponibile după autentificare;
+apelați 10 pentru a opri nodul sau repetorul;
+apelați 69 pentru a reporni SvxLink;
+apelați 73 pentru a reporni nodul sau repetorul;
+apelați 77 pentru a opri SvxLink;
+apelați 87 pentru informații despre sistemul de operare;
+apelați 88 pentru a afla adresa IP locală.
+
+HELP_LOGGED_IN_002
+
+Toate comenzile definite de administrator trebuie prefixate cu 22.
+Toate comenzile trebuie să se termine cu codul diez.
+

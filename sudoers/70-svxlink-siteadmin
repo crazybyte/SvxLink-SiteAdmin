@@ -1,0 +1,7 @@
+svxlink ALL=(root:root) NOPASSWD:/usr/sbin/reboot
+svxlink ALL=(root:root) NOPASSWD:/usr/sbin/halt
+svxlink ALL=(root:root) NOPASSWD:/usr/sbin/poweroff
+svxlink ALL=(root:root) NOPASSWD:/usr/bin/systemctl stop svxlink.service
+svxlink ALL=(root:root) NOPASSWD:/usr/bin/systemctl restart svxlink.service
+svxlink ALL=(root:root) NOPASSWD:/usr/sbin/service svxlink stop
+svxlink ALL=(root:root) NOPASSWD:/usr/sbin/service svxlink restart
